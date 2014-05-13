@@ -44,7 +44,7 @@
 #define _OPENCV_MINIFLANN_HPP_
 
 #include "opencv2/core.hpp"
-#include "opencv2/flanncv/defines.h"
+#include "opencv2/flann/defines.h"
 
 namespace cv
 {

@@ -44,7 +44,7 @@
 #define __OPENCV_FEATURES_2D_HPP__
 
 #include "opencv2/core.hpp"
-#include "opencv2/flanncv/miniflann.hpp"
+#include "opencv2/flann/miniflann.hpp"
 
 namespace cv
 {
